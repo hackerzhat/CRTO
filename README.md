@@ -13,7 +13,7 @@ We maintain this repo with the aim to gather all the info that we’d found usef
 **Before continue**: we are still working on this repo as we go on with our CRTO journey. This means we'll add or remove parts without giving notice. Furthermore, this is not intended to be a comprehensive repo, cross-reference and information gathering are your friends.
 
 ## TOC
-- [Official Zero Point Security references](#official-zero-point-security-references)
+- [Official Zero-Point Security references](#official-zero-point-security-references)
 - [Blog](#blog)
 - [Reddit](#reddit)
 - [GitHub repos](#github-repos)
@@ -25,7 +25,7 @@ We maintain this repo with the aim to gather all the info that we’d found usef
 - [Cheat sheets](#cheat-sheets-and-wordlists)
 - [Reporting](#reporting)
 
-## Official Zero Point Security References
+## Official Zero-Point Security References
 
 ## Blog
 
