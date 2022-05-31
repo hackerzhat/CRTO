@@ -27,6 +27,8 @@ At this time of writing, this repo is just a "clone" of the OSCP one. Once we'll
 - [Reporting](#reporting)
 
 ## Official Zero-Point Security References
+- [Course page: Red Team Ops - Adversary Simulation & Red Team Operations](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
+- [Zero-Point Security Training FAQ](https://training.zeropointsecurity.co.uk/pages/frequently-asked-questions)
 
 ## Blog
 
