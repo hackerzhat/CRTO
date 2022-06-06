@@ -20,6 +20,7 @@ At this time of writing, this repo is just a "clone" of the OSCP one. Once we'll
 - [GitHub repos](#github-repos)
 - [Webbing](#webbing)
 - [Genereal useful resources](#genereal-useful-resources)
+- [Microsoft Defender Antivirus](#microsoft-defender-antivirus)
 - [Active Directory](#active-directory)
 - [PrivEsc](#privesc)
 - [Methodologies](#methodologies)
@@ -31,13 +32,38 @@ At this time of writing, this repo is just a "clone" of the OSCP one. Once we'll
 - [Zero-Point Security Training FAQ](https://training.zeropointsecurity.co.uk/pages/frequently-asked-questions)
 - [Exam booking and info](https://training.zeropointsecurity.co.uk/pages/red-team-ops-exam)
 
-## Blog
+## Blog about the RTO course and exam
+- [Operate Like You Mean It: ‘Red Team Ops’ (CRTO) Course Review](https://casvancooten.com/posts/2021/07/operate-like-you-mean-it-red-team-ops-crto-course-review/)
 
 ## Reddit
 
 ## GitHub repos
 - [Enumeration wikis](https://github.com/theonlykernel/enumeration/wiki)
 - [ConPtyShell - Fully Interactive Revese Shell for Windows](https://github.com/antonioCoco/ConPtyShell)
+
+## Genereal useful resources
+- [Powershell basics](https://www.darkoperator.com/powershellbasics)
+- [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
+- [Big list with tips, tricks and cheat sheets](https://guif.re/)
+
+## Microsoft Defender Antivirus
+- [How to manage Microsoft Defender Antivirus with PowerShell on Windows 10](https://www.windowscentral.com/how-manage-microsoft-defender-antivirus-powershell-windows-10)
+
+## Active Directory
+### Blog posts
+- [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/?s=09)
+- [Stealthbits Attack Catalog](https://attack.stealthbits.com/)
+### YouTube
+- [Red Teaming: ADventures in Active Directory](https://www.youtube.com/watch?v=dO2cZu7090A)
+### Cheast Sheets
+- [Cheat Sheet - Attack Active Directory](https://github.com/drak3hft7/Cheat-Sheet---Active-Directory)
+- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
+- [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+- [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
+
+### Extra labs
+- [Vulnerable-AD (Local lab)](https://github.com/WazeHell/vulnerable-AD)
+- [Active Directory Labs/exams Review](https://github.com/ryan412/ADLabsReview)
 
 ## Webbing
 ### General
@@ -57,19 +83,6 @@ At this time of writing, this repo is just a "clone" of the OSCP one. Once we'll
 - [Uploading web.config for Fun and Profit 2 by @irsdl](https://soroush.secproject.com/blog/2019/08/uploading-web-config-for-fun-and-profit-2/)
 - [IIS Application vs. Folder Detection During Blackbox Testing by @irsdl](https://soroush.secproject.com/blog/2019/07/iis-application-vs-folder-detection-during-blackbox-testing/)
 
-## Genereal useful resources
-- [Powershell basics](https://www.darkoperator.com/powershellbasics)
-- [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
-- [Big list with tips, tricks and cheat sheets](https://guif.re/)
-
-## Active Directory
-- [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/?s=09)
-- [Stealthbits Attack Catalog](https://attack.stealthbits.com/)
-- [Cheat Sheet - Attack Active Directory](https://github.com/drak3hft7/Cheat-Sheet---Active-Directory)
-- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
-- [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
-- [Vulnerable-AD (Local lab)](https://github.com/WazeHell/vulnerable-AD)
-- [Active Directory Labs/exams Review](https://github.com/ryan412/ADLabsReview)
 
 ## PrivEsc
 #### General
