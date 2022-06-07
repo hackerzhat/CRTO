@@ -34,6 +34,9 @@ At this time of writing, this repo is just a "clone" of the OSCP one. Once we'll
 
 ## Blog about the RTO course and exam
 - [Operate Like You Mean It: ‘Red Team Ops’ (CRTO) Course Review](https://casvancooten.com/posts/2021/07/operate-like-you-mean-it-red-team-ops-crto-course-review/)
+- [ZeroPointSecurity Certified Red Team Operator (CRTO) Course - A Comprehensive Review](https://heartburn.dev/zeropointsecurity-certified-red-team-operator-crto-course-a-comprehensive-review/)
+- [Zero-point Security's Red Team Ops (CRTO) review](https://www.bencteux.fr/posts/crto/)
+- [My CRTO course and exam review](https://gustavshen.medium.com/my-crto-course-and-exam-review-433f967f712e)
 
 ## Reddit
 
@@ -45,6 +48,7 @@ At this time of writing, this repo is just a "clone" of the OSCP one. Once we'll
 - [Powershell basics](https://www.darkoperator.com/powershellbasics)
 - [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 - [Big list with tips, tricks and cheat sheets](https://guif.re/)
+- [Red Team Operations vs. Penetration Testing](https://www.mitnicksecurity.com/blog/red-team-operations-vs.-penetration-testing)
 
 ## Microsoft Defender Antivirus
 - [How to manage Microsoft Defender Antivirus with PowerShell on Windows 10](https://www.windowscentral.com/how-manage-microsoft-defender-antivirus-powershell-windows-10)
