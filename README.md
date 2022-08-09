@@ -20,7 +20,7 @@ At this time of writing, this repo is just a "clone" of the OSCP one. Once we'll
 
 ## TOC
 - [Official Zero-Point Security references](#official-zero-point-security-references)
-- [Blog](#blog)
+- [Blog](#Blog-about-the-RTO-course-and-exam)
 - [Reddit](#reddit)
 - [GitHub repos](#github-repos)
 - [Webbing](#webbing)
