@@ -10,7 +10,7 @@
 ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌ ▐░▌ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌      ▐░▌ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
 ▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌     
  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀    ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀         ▀       ▀  
-		 	–––– lynx team x hackerzat – lynxes are back, and just wanna have fun again ––––
+		 	–––– the lynx team x hackerzat – lynxes are back, and just wanna have fun again ––––
 ```
 # CRTO
 We maintain this repo with the aim to gather all the info that we’d found useful and interesting for the CRTO. We also collect material from other resources (websites, courses, blogs, git repos, books, etc).
