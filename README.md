@@ -40,6 +40,9 @@
 
 ## GitHub repos
 - [Enumeration wikis](https://github.com/theonlykernel/enumeration/wiki)
+- [SharpUp](https://github.com/GhostPack/SharpUp)
+- [SharPersist](https://github.com/mandiant/SharPersist)
+
 ## Persistence
 > [MITRE ATT&CK TA003](https://attack.mitre.org/tactics/TA0003/)
 ### YouTube
