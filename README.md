@@ -44,6 +44,8 @@
 > [MITRE ATT&CK TA003](https://attack.mitre.org/tactics/TA0003/)
 ### YouTube
 - [All About DLL Hijacking - My Favorite Persistence Method](https://www.youtube.com/watch?v=3eROsG_WNpE) by IppSec
+### Blog
+- [Windows Persistence Commands](http://pwnwiki.io/#!persistence/windows/index.md) from [PwnWiki.io](http://pwnwiki.io)
 ## Privilege escalation
 > [MITRE ATT&CK TA004](https://attack.mitre.org/tactics/TA0004/)
 ## Uncategorized stuff
