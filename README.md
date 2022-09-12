@@ -23,9 +23,8 @@
 - [Official Zero-Point Security references](#official-zero-point-security-references)
 - [Blog](#blog-about-the-rto-course-and-exam)
 - [GitHub repos](#github-repos)
-- [Host side](#host-side)
-	- [Host persistence](#host-persistence)
-	- [Host privilege escalation](#host-privilege-escalation)
+- [Persistence](#persistence)
+- [Privilege escalation](#privilege-escalation)
 - [Uncategorized stuff](#uncategorized-stuff)
 
 ## Official Zero-Point Security References
@@ -41,9 +40,12 @@
 
 ## GitHub repos
 - [Enumeration wikis](https://github.com/theonlykernel/enumeration/wiki)
-## Host side
-### Host persistence
-### Host privilege escalation
+## Persistence
+> [MITRE ATT&CK TA003](https://attack.mitre.org/tactics/TA0003/)
+### YouTube
+-[All About DLL Hijacking - My Favorite Persistence Method](https://www.youtube.com/watch?v=3eROsG_WNpE) by IppSec
+## Privilege escalation
+> [MITRE ATT&CK TA004](https://attack.mitre.org/tactics/TA0004/)
 ## Uncategorized stuff
 ### Genereal useful resources
 - [Powershell basics](https://www.darkoperator.com/powershellbasics)
